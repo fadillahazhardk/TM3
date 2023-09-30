@@ -1,0 +1,23 @@
+{
+"type": "FeatureCollection",
+"name": "TM3_Zone_Boundaries",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "TM3_ZONA": "46-2", "EPSG_CODE": "23830", "Credit": "Geosensei" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 95.16, 2.55 ], [ 96.0, 2.55 ], [ 96.0, 5.97 ], [ 95.16, 5.97 ], [ 95.16, 2.55 ] ] ] } },
+{ "type": "Feature", "properties": { "TM3_ZONA": "47-1", "EPSG_CODE": "23831", "Credit": "Geosensei" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 96.0, -1.81 ], [ 99.0, -1.81 ], [ 99.0, 5.42 ], [ 96.0, 5.42 ], [ 96.0, -1.81 ] ] ] } },
+{ "type": "Feature", "properties": { "TM3_ZONA": "47-2", "EPSG_CODE": "23832", "Credit": "Geosensei" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 99.0, -3.57 ], [ 102.0, -3.57 ], [ 102.0, 3.71 ], [ 99.0, 3.71 ], [ 99.0, -3.57 ] ] ] } },
+{ "type": "Feature", "properties": { "TM3_ZONA": "48-1", "EPSG_CODE": "23833", "Credit": "Geosensei" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 102.0, -5.99 ], [ 105.0, -5.99 ], [ 105.0, 1.68 ], [ 102.0, 1.68 ], [ 102.0, -5.99 ] ] ] } },
+{ "type": "Feature", "properties": { "TM3_ZONA": "48-2", "EPSG_CODE": "23834", "Credit": "Geosensei" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 105.0, -7.79 ], [ 108.0, -7.79 ], [ 108.0, 4.11 ], [ 105.0, 4.11 ], [ 105.0, -7.79 ] ] ] } },
+{ "type": "Feature", "properties": { "TM3_ZONA": "49-1", "EPSG_CODE": "23835", "Credit": "Geosensei" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 108.0, -8.31 ], [ 111.0, -8.31 ], [ 111.0, 4.25 ], [ 108.0, 4.25 ], [ 108.0, -8.31 ] ] ] } },
+{ "type": "Feature", "properties": { "TM3_ZONA": "49-2", "EPSG_CODE": "23836", "Credit": "Geosensei" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 111.0, -8.67 ], [ 114.0, -8.67 ], [ 114.0, 1.59 ], [ 111.0, 1.59 ], [ 111.0, -8.67 ] ] ] } },
+{ "type": "Feature", "properties": { "TM3_ZONA": "50-1", "EPSG_CODE": "23837", "Credit": "Geosensei" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 114.0, -9.15 ], [ 117.01, -9.15 ], [ 117.01, 4.37 ], [ 114.0, 4.37 ], [ 114.0, -9.15 ] ] ] } },
+{ "type": "Feature", "properties": { "TM3_ZONA": "50-2", "EPSG_CODE": "23838", "Credit": "Geosensei" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 117.0, -10.15 ], [ 120.0, -10.15 ], [ 120.0, 4.36 ], [ 117.0, 4.36 ], [ 117.0, -10.15 ] ] ] } },
+{ "type": "Feature", "properties": { "TM3_ZONA": "51-1", "EPSG_CODE": "23839", "Credit": "Geosensei" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 120.0, -10.98 ], [ 123.0, -10.98 ], [ 123.0, 1.4 ], [ 120.0, 1.4 ], [ 120.0, -10.98 ] ] ] } },
+{ "type": "Feature", "properties": { "TM3_ZONA": "51-2", "EPSG_CODE": "23840", "Credit": "Geosensei" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 123.0, -10.92 ], [ 126.0, -10.92 ], [ 126.0, 3.84 ], [ 123.0, 3.84 ], [ 123.0, -10.92 ] ] ] } },
+{ "type": "Feature", "properties": { "TM3_ZONA": "52-1", "EPSG_CODE": "23841", "Credit": "Geosensei" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 126.0, -8.32 ], [ 129.0, -8.32 ], [ 129.0, 4.59 ], [ 126.0, 4.59 ], [ 126.0, -8.32 ] ] ] } },
+{ "type": "Feature", "properties": { "TM3_ZONA": "52-2", "EPSG_CODE": "23842", "Credit": "Geosensei" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 129.0, -8.41 ], [ 132.0, -8.41 ], [ 132.0, 0.1 ], [ 129.0, 0.1 ], [ 129.0, -8.41 ] ] ] } },
+{ "type": "Feature", "properties": { "TM3_ZONA": "53-1", "EPSG_CODE": "23843", "Credit": "Geosensei" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 132.0, -7.3 ], [ 135.0, -7.3 ], [ 135.0, -0.29 ], [ 132.0, -0.29 ], [ 132.0, -7.3 ] ] ] } },
+{ "type": "Feature", "properties": { "TM3_ZONA": "53-2", "EPSG_CODE": "23844", "Credit": "Geosensei" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 135.0, -8.49 ], [ 138.0, -8.49 ], [ 138.0, -0.58 ], [ 135.0, -0.58 ], [ 135.0, -8.49 ] ] ] } },
+{ "type": "Feature", "properties": { "TM3_ZONA": "54-1", "EPSG_CODE": "23845", "Credit": "Geosensei" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 138.0, -9.19 ], [ 141.01, -9.19 ], [ 141.01, -1.49 ], [ 138.0, -1.49 ], [ 138.0, -9.19 ] ] ] } }
+]
+}
