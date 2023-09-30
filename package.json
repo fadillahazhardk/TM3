@@ -1,0 +1,24 @@
+{
+  "name": "tm3",
+  "version": "1.0.0",
+  "description": "Identify TM3 zones in Indonesia through user coordinates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/fadillahazhardk/TM3.git)"
+  },
+  "keywords": [
+    "projection",
+    "utm",
+    "coordinate"
+  ],
+  "author": "Fadillah Azhar",
+  "license": "MIT",
+  "dependencies": {
+    "de9im": "^1.3.1",
+    "transform-coordinates": "^1.0.0"
+  }
+}
